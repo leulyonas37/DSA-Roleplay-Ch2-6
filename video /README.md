@@ -1,2 +1,1 @@
-# DSA-Roleplay-Ch2-6
-we were tasked with demonstrating query in real life using numbers for our members and making sure that we can understand it
+https://drive.google.com/file/d/1RTC-r7lZytrOu3AQWevqf4fmzAMCmAaH/view?usp=drive_link
